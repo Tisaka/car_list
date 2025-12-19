@@ -411,13 +411,7 @@ body {
     }
     
     .main-image {
-        position: relative;
-        top: 0;
-        right: 0;
-        width: 100%;
-        max-width: 500px;
-        display: block;
-        margin: 0 auto;
+        display: none;
     }
 
     .cars-content {
@@ -512,4 +506,5 @@ body {
     .car-details h4 {
         font-size: 24px;
     }
+
 }
